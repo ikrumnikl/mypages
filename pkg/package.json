@@ -1,0 +1,14 @@
+{
+  "name": "myhmi04",
+  "version": "0.1.0",
+  "files": [
+    "myhmi04_bg.wasm",
+    "myhmi04.js",
+    "myhmi04.d.ts"
+  ],
+  "module": "myhmi04.js",
+  "types": "myhmi04.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
